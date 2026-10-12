@@ -20,7 +20,7 @@
 
 ### Блок-схема
 
-<img width="2720" height="1840" alt="errors_ending_flowchart" src="https://github.com/user-attachments/assets/cd03fd8b-bcb3-4924-bc12-ad289626dd52" />
+<img width="421" height="801" alt="lab7_schema" src="https://github.com/user-attachments/assets/3cc33a82-c20b-47cb-a366-a261259ac1d8" />
 
 ## 2. Реализация программы
 
